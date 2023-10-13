@@ -23,3 +23,6 @@ cd ~/workspace
 bash build.sh
 bash run.sh <port number>
 ```
+
+# special thanks
+https://github.com/RoboStack/jupyter-ros
